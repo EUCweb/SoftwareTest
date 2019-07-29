@@ -1,11 +1,11 @@
 ﻿<#
 
 .SYNOPSIS
-run Softwaresets
+run Software Test with Pester. This is the inital script to trigger
 
 .DESCRIPTION
-Running Powershell Pester to test the exiting executables on the XenApp Server
-and send out the output to ReportUnit to generate a html report
+Running Powershell Pester to test the exiting executables on your Image if all applications are installed.
+it Send out the output to ReportUnit to generate a html report
 
 .PARAMETER Type
 possible Value, it uses the Types from the config.json. You can add your own, if you like
