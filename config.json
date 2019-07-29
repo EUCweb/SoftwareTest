@@ -2,7 +2,7 @@
 	"SoftwareSet"	: {
 		"VA"	: {
 			"STD" 	:	"Base.txt,STD.txt,Final.txt",
-			"BASE" 	:	"Base",
+			"BASE" 	:	"Base.txt",
 			"FINAL"	:	"Final.txt"
 
 
