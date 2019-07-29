@@ -1,0 +1,31 @@
+{
+	"SoftwareSet"	: {
+		"VA"	: {
+			"STD" 	:	"Base.txt,STD.txt,Final.txt",
+			"BASE" 	:	"Base",
+			"FINAL"	:	"Final.txt"
+
+
+		},
+
+		"VD"	: {
+			"DEV"		:	"Base.txt,STD.txt,DEV.txt,Security.txt,Final.txt",
+			"Marketing"	:	"Base.txt,STD.txt,Security.txt,Final.txt"
+		}
+	},
+
+	"WebServer"	: {
+		"Hosts"		:	"Director1,Director2",
+		"localpath" :	"inetpub\\wwwroot",
+		"LBname"	:	"director"
+	},
+
+	"Mail"	: {
+		"emailFrom"		:	"SoftwareTest <SoftwareTestNOREPLY.company.com>",
+		"emailTo"		:	"<distribution>@company.com>",
+		"emailToTest"	:	"<testmail@company.com>",
+		"smtpServer"	:	"<smtp.company.com>"
+
+	}
+
+}
