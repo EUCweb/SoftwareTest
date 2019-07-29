@@ -147,6 +147,6 @@ End {
 
 	}
 
-	#remove-item "$ReportPath\*" -Force -Recurse
+	remove-item "$ReportPath\*" -Force -Recurse
 
 }
