@@ -1,0 +1,7 @@
+Fslogix Apps,c:\Program Files\FSLogix\Apps\frx.exe
+Nutanix POSH Cmdlets,C:\Program Files (x86)\Nutanix Inc\NutanixCmdlets\bin\Run.bat
+Citrix PVS Target Device Driver,C:\Program Files\Citrix\Provisioning Services\BNDevice.exe
+Citrix Optimizer,C:\Program Files (x86)\CitrixOptimizer\CitrixOptimizer.exe
+Base Image Script Framework (BIS-F),C:\Program Files (x86)\Base Image Script Framework (BIS-F)\PrepareBaseImage.cmd
+Citrix VDA,C:\Program Files\Citrix\Virtual Desktop Agent\BrokerAgent.exe
+Citrix BGInfo,C:\BGINFO\Bginfo.exe

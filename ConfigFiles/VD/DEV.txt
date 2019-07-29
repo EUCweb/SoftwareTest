@@ -1,0 +1,31 @@
+FOD-Installer,C:\Program Files (x86)\DACHSER\FOD-Installer\FOD-Installer.ps1
+Switch User Language,C:\Program Files (x86)\DACHSER\SwitchUserLanguage\SwitchUserLanguage.exe
+Putty,C:\Program Files (x86)\SimonTatham\PUTTY.EXE
+IBM Client Access,C:\Program Files (x86)\IBM\Client Access\cwbuisxe.exe
+Hardcopy,C:\Program Files (x86)\Hardcopy\hardcopy.exe
+Keypass,C:\Program Files (x86)\KeePass Password Safe 2\KeePass.exe
+Total Commander,C:\totalcmd\TOTALCMD64.EXE
+SourceTree,C:\Program Files (x86)\Atlassian\Sourcetree\SourceTree.exe
+Notepad++,C:\Program Files\Notepad++\notepad++.exe
+Word,C:\Program Files (x86)\Microsoft Office\Office16\WINWORD.EXE
+Excel,C:\Program Files (x86)\Microsoft Office\Office16\Excel.exe
+PowerPoint,C:\Program Files (x86)\Microsoft Office\Office16\POWERPNT.EXE
+Eclipe,C:\dachdev\eclipse\2018-09\eclipse\eclipse.exe
+IBM Lotus Notes,C:\Program Files (x86)\IBM\Notes\notes.exe
+Apache Maven,C:\dachdev\tools\maven\bin\mvn.cmd
+Apache Tomcat 7.0,C:\dachdev\tools\tomcat\7.0\bin\startup.sh
+Apache Tomcat 8.0,C:\dachdev\tools\tomcat\8.0\bin\startup.sh
+Apache Tomcat 8.5,C:\dachdev\tools\tomcat\8.5\bin\startup.sh
+Apache Tomcat 9.0,C:\dachdev\tools\tomcat\9.0\bin\startup.sh
+JMeter,C:\dachdev\tools\jmeter\5.0\bin\ApacheJMeter.jar
+Jave Decompiler,C:\dachdev\tools\jd\jd-gui.exe
+KDiff3,C:\Program Files\KDiff3\kdiff3.exe
+Git,C:\Program Files\Git\bin\git.exe
+Git Extension,C:\Program Files (x86)\GitExtensions\GitExtensions.exe
+Pencil,C:\Program Files\Pencil\Pencil.exe
+SOAPUI,C:\Program Files (x86)\SmartBear\SoapUI-5.4.0\bin\SoapUI-5.4.0.exe
+Java JDK 1.7.80,C:\dachdev\tools\java\jdk_1.7_80\bin\javaw.exe
+Java JDK 1.7.80 x64,C:\dachdev\tools\java\jdk_1.7_80_x64\bin\javaw.exe
+Java JDK 1.8.191,C:\dachdev\tools\java\jdk_1.8_191\bin\javaw.exe
+Java JDK 1.8.191 x64,C:\dachdev\tools\java\jdk_1.8_191_x64\bin\javaw.exe
+IBM Rational Developer for Power Systems Software,C:\Program Files (x86)\IBM\SDP\eclipse.exe

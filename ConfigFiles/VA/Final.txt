@@ -1,0 +1,6 @@
+Citrix VDA,C:\Program Files\Citrix\Virtual Desktop Agent\BrokerAgent.exe
+Citrix UPM,C:\Program Files\Citrix\User Profile Manager\UserProfileManager.exe
+Citrix Receiver,C:\Program Files (x86)\Citrix\ICA Client\Receiver\Receiver.exe
+Symantec Endpoint Protection,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\SMC.exe
+Base Image Script Framework,c:\Program Files (x86)\Base Image Script Framework (BIS-F)\PrepareBaseImage.cmd
+Citrix PVS Target Device Driver,C:\Program Files\Citrix\Provisioning Services\BNDevice.exe

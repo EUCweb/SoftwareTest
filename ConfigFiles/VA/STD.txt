@@ -1,0 +1,13 @@
+Word 2016,C:\Program Files (x86)\Microsoft Office\Office16\Winword.exe
+Excel 2016,C:\Program Files (x86)\Microsoft Office\Office16\excel.exe
+PowerPoint 2016,C:\Program Files (x86)\Microsoft Office\Office16\POWERPNT.EXE
+Visio 2016,C:\Program Files (x86)\Microsoft Office\Office16\Visio.exe
+Access 2016,C:\Program Files (x86)\Microsoft Office\Office16\MSACCESS.EXE
+Adobe Reader,C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroRd32.exe
+Adobe Flash,C:\Windows\SysWOW64\FlashPlayerApp.exe
+Silverlight,C:\Program Files\Microsoft Silverlight\sllauncher.exe
+7-Zip,C:\Program Files\7-Zip\7zG.exe
+Google Chrome,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Citrix Files,C:\Program Files\Citrix\Citrix Files\CitrixFiles.exe
+KeyPass,C:\Program Files (x86)\KeePass Password Safe 2\KeePass.exe
+SAP Gui,C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe

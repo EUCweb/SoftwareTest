@@ -1,0 +1,2 @@
+Silverlight,C:\Program Files (x86)\Microsoft Silverlight\sllauncher.exe
+Oracle Java,C:\Program Files (x86)\Java\jre1.8.0_112\bin\java.exe

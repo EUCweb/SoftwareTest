@@ -1,0 +1,24 @@
+Citrix XenTools,C:\Program Files\Citrix\XenTools\XenGuestAgent.exe
+Language cs-cz,C:\Windows\cs-CZ\explorer.exe.mui
+Language da-dk,C:\Windows\da-dk\explorer.exe.mui
+Language de-de,C:\Windows\de-de\explorer.exe.mui
+Language en-gb,C:\Windows\en-gb\explorer.exe.mui
+Language en-us,C:\Windows\en-us\explorer.exe.mui
+Language es-es,C:\Windows\es-es\explorer.exe.mui
+Language es-mx,C:\Windows\es-mx\explorer.exe.mui
+Language fi-fi,C:\Windows\fi-fi\explorer.exe.mui
+Language fr-fr,C:\Windows\fr-fr\explorer.exe.mui
+Language hu-hu,C:\Windows\hu-hu\explorer.exe.mui
+Language it-it,C:\Windows\it-it\explorer.exe.mui
+Language ko-kr,C:\Windows\ko-kr\explorer.exe.mui
+Language nb-no,C:\Windows\nb-no\explorer.exe.mui
+Language nl-nl,C:\Windows\nl-nl\explorer.exe.mui
+Language pl-pl,C:\Windows\pl-pl\explorer.exe.mui
+Language pt-br,C:\Windows\pt-br\explorer.exe.mui
+Language pt-pt,C:\Windows\pt-pt\explorer.exe.mui
+Language ru-ru,C:\Windows\ru-ru\explorer.exe.mui
+Language sk-sk,C:\Windows\sk-sk\explorer.exe.mui
+Language sv-se,C:\Windows\sv-se\explorer.exe.mui
+Language tr-tr,C:\Windows\tr-tr\explorer.exe.mui
+Language zh-cn,C:\Windows\zh-cn\explorer.exe.mui
+Language zh-tw,C:\Windows\zh-tw\explorer.exe.mui
